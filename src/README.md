@@ -2,7 +2,7 @@ Graphical Application using JavaFX And MVC Pattern
 This is a simple Word guessing game like wordle  with a form-based graphical user-interface using JavaFX. JavaFX is a set of classes and tools for creating graphical applications. JavaFX is included in the Java API and Java Development Kit.
 
  
-**Overview of GUI Wordle App Design
+Overview of GUI Wordle App Design
 Applications with a graphical user interface (GUI) divide the code into components, based on functionality:
 
 User Interface or View contains visual components, layout, and formatting of the UI.
@@ -23,3 +23,5 @@ lambda Expression are also used in button events and tile click events.
 Using FileReader  Read strings words from txt file store in arraylist.
 
 
+**At Beginning i was not aware of the Wordle Game, I played few games and got an idea to customize the sample game.
+From this project I learnt about how the form-based graphical user-interface using JavaFX is used in the guessing game, learnt about how to describe the components in the UI and how to lay them out by creating and modifying the JavaFX UI.Learnt how to controller handles the events which is generated from the UI view and how to update UI, learnt about how a scenebuilder specify using the controller class,learnt about how to bridge between the view and model which contains logic and code for the application.**
